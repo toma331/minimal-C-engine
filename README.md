@@ -25,3 +25,5 @@ make
 ## Примечания
 - Это учебный проект.
 - В проекте используются fixed‑function вызовы OpenGL 2.1 (`gluPerspective`, `gluLookAt`, `glRotatef`).
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e04e95cb-4328-4a2e-8575-2634afcb19fa" />
